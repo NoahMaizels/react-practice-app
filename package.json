@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
-    "dexie": "^2.0.4",
+    "dexie": "^3.2.2",
     "minimongo": "^6.5.0",
     "node-fetch": "^2.6.0",
     "react": "^16.8.6",
